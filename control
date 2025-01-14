@@ -7,6 +7,6 @@ Replaces: com.pholic.modernuiplus,  com.ryannair05.little11, com.VitaTaf.HomeGes
 Conflict: com.ryannair05.little11, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
 Provides: com.ryannair05.little11, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
 Maintainer: pholic <pholic@gmail.com>
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
 Section: Tweaks
 Version: 1.1.4
